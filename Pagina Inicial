@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minha Página no GitHub Pages</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link para um arquivo CSS externo -->
+</head>
+
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#">Início</a></li>
+                <li><a href="#sobre">Sobre</a></li>
+                <li><a href="#servicos">Serviços</a></li>
+                <li><a href="#contato">Contato</a></li>
+            </ul>
+        </nav>
+        <h1>Bem-vindo à Minha Página!</h1>
+    </header>
+
+    <main>
+        <section id="sobre">
+            <h2>Sobre Mim</h2>
+            <p>Esta é uma página de teste criada para mostrar como utilizar GitHub Pages para hospedar um site de forma gratuita. Aqui você pode adicionar informações sobre você ou sobre seu projeto.</p>
+        </section>
+
+        <section id="servicos">
+            <h2>Serviços</h2>
+            <p>Aqui você pode descrever os serviços oferecidos, como desenvolvimento web, consultoria, ou qualquer outra coisa que desejar compartilhar com os visitantes.</p>
+            <ul>
+                <li>Pizzas</li>
+                <li>Esfihas Abertas</li>
+                <li>Refrigerantes</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer id="contato">
+        <h2>Contato</h2>
+        <p>Entre em contato pelo e-mail: <a href="mailto:prafaelpb1@gmail.com">seuemail@exemplo.com</a></p>
+        <p>Ou siga-me nas redes sociais:</p>
+        <ul>
+            <li><a href="#">Facebook</a></li>
+            <li><a href="#">Instagram</a></li>
+            <li><a href="#">LinkedIn</a></li>
+        </ul>
+        <p>&copy; 2024 Todos os direitos reservados.</p>
+    </footer>
+</body>
+
+</html>
